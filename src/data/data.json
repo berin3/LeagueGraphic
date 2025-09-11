@@ -1,0 +1,289 @@
+{
+    "top": {
+        "comfort": {
+            "Camille": {
+                "positive1": "Splitpush",
+                "positive2": "Pick",
+                "positive3": "Scaling"
+            },
+            "Darius": {
+                "positive1": "Laning",
+                "positive2": "Anti Tank",
+                "positive3": "Burst"
+            },
+            "Renekton": {
+                "positive1": "Safety",
+                "positive2": "Pick",
+                "positive3": "Laning"
+            }
+        },
+        "specific": {
+            "Fiora": {
+                "positive1": "Splitpush",
+                "positive2": "Scaling",
+                "positive3": "Anti Tank"
+            },
+            "Irelia": {
+                "positive1": "Range Counter",
+                "positive2": "Splitpush",
+                "positive3": "Laning"
+            },
+            "Cho'Gath": {
+                "positive1": "Anti Tank",
+                "positive2": "Frontline",
+                "positive3": "Scaling"
+            }
+        },
+        "teamcomp": {
+            "Gnar": {
+                "positive1": "Safety",
+                "positive2": "Teamfight",
+                "positive3": "Engage"
+            },
+            "Sion": {
+                "positive1": "Frontline",
+                "positive2": "Scaling",
+                "positive3": "AOE"
+            },
+            "Poppy": {
+                "positive1": "Frontline",
+                "positive2": "Anti Mobility",
+                "positive3": "CC"
+            }
+        }
+    },
+    "jungle": {
+        "comfort": {
+            "Jarvan IV": {
+                "positive1": "Engage",
+                "positive2": "Mobility",
+                "positive3": "Skirmish"
+            },
+            "Lee Sin": {
+                "positive1": "Dueling",
+                "positive2": "Mobility",
+                "positive3": "Pick"
+            },
+            "Nautilus": {
+                "positive1": "Engage",
+                "positive2": "Frontline",
+                "positive3": "CC"
+            },
+            "Sejuani": {
+                "positive1": "Engage",
+                "positive2": "Frontline",
+                "positive3": "Pick"
+            }
+        },
+        "specific": {
+            "Xin Zhao": {
+                "positive1": "Dueling",
+                "positive2": "Disruption",
+                "positive3": "Skirmish"
+            },
+            "Wukong": {
+                "positive1": "Engage",
+                "positive2": "Teamfight",
+                "positive3": "Anti AD"
+            }
+        },
+        "teamcomp": {
+            "Ivern": {
+                "positive1": "Zone Control",
+                "positive2": "Protect",
+                "positive3": "Pick"
+            }
+        }
+    },
+    "mid": {
+        "comfort": {
+            "Ahri": {
+                "positive1": "Mobility",
+                "positive2": "Pick",
+                "positive3": "Laning"
+            },
+            "Aurora": {
+                "positive1": "Burst",
+                "positive2": "Safety",
+                "positive3": "Mobility"
+            },
+            "Ekko": {
+                "positive1": "Safety",
+                "positive2": "Splitpush",
+                "positive3": "Burst"
+            },
+            "Hwei": {
+                "positive1": "Waveclear",
+                "positive2": "AOE",
+                "positive3": "CC"
+            },
+            "Lux": {
+                "positive1": "Pick",
+                "positive2": "Burst",
+                "positive3": "CC"
+            },
+            "Mel": {
+                "positive1": "Poke",
+                "positive2": "Safety",
+                "positive3": "Waveclear"
+            },
+            "Orianna": {
+                "positive1": "Safety",
+                "positive2": "Utility",
+                "positive3": "Zone Control"
+            },
+            "Syndra": {
+                "positive1": "Burst",
+                "positive2": "CC",
+                "positive3": "Waveclear"
+            },
+            "Viktor": {
+                "positive1": "AOE",
+                "positive2": "Poke",
+                "positive3": "Waveclear"
+            },
+            "Ziggs": {
+                "positive1": "Poke",
+                "positive2": "AOE",
+                "positive3": "Waveclear"
+            }
+        },
+        "specific": {
+            "Akali": {
+                "positive1": "Splitpush",
+                "positive2": "Burst",
+                "positive3": "Mobility"
+            },
+            "Anivia": {
+                "positive1": "Waveclear",
+                "positive2": "Scaling",
+                "positive3": "CC"
+            },
+            "Cassiopeia": {
+                "positive1": "Peel",
+                "positive2": "Anti Mobility",
+                "positive3": "DPS"
+            },
+            "Kassadin": {
+                "positive1": "Anti AP",
+                "positive2": "Scaling",
+                "positive3": "Mobility"
+            },
+            "LeBlanc": {
+                "positive1": "Safety",
+                "positive2": "Burst",
+                "positive3": "Mobility"
+            },
+            "Morgana": {
+                "positive1": "Anti CC",
+                "positive2": "Pick",
+                "positive3": "Poke"
+            },
+            "Swain": {
+                "positive1": "Sustain",
+                "positive2": "Pick",
+                "positive3": "Teamfight"
+            },
+            "Sylas": {
+                "positive1": "Burst",
+                "positive2": "Sustain",
+                "positive3": "Pick"
+            },
+            "Taliyah": {
+                "positive1": "Anti Mobility",
+                "positive2": "Global",
+                "positive3": "Pick"
+            },
+            "Vel'Koz": {
+                "positive1": "Anti Tank",
+                "positive2": "Poke",
+                "positive3": "Waveclear"
+            }
+        },
+        "teamcomp": {
+            "Jayce": {
+                "positive1": "AD",
+                "positive2": "Poke",
+                "positive3": "Burst"
+            },
+            "Aurelion Sol": {
+                "positive1": "Scaling",
+                "positive2": "Waveclear",
+                "positive3": "DPS"
+            },
+            "Azir": {
+                "positive1": "DPS",
+                "positive2": "Peel",
+                "positive3": "Engage"
+            },
+            "Galio": {
+                "positive1": "CC",
+                "positive2": "Global",
+                "positive3": "Frontline"
+            },
+            "Lissandra": {
+                "positive1": "CC",
+                "positive2": "Engage",
+                "positive3": "Pick"
+            },
+            "Neeko": {
+                "positive1": "Teamfight",
+                "positive2": "Engage",
+                "positive3": "AOE"
+            },
+            "Twisted Fate": {
+                "positive1": "Global",
+                "positive2": "Pick",
+                "positive3": "Splitpush"
+            }
+        }
+    },
+    "bot": {
+        "comfort": {
+            "Jinx": {
+                "positive1": "Scaling",
+                "positive2": "AOE",
+                "positive3": "Global"
+            },
+            "Sivir": {
+                "positive1": "Scaling",
+                "positive2": "Engage",
+                "positive3": "Waveclear"
+            }
+        },
+        "specific": {
+            "Xayah": {
+                "positive1": "Safety",
+                "positive2": "CC",
+                "positive3": "AOE"
+            }
+        },
+        "teamcomp": {
+            "Jhin": {
+                "positive1": "CC",
+                "positive2": "Pick",
+                "positive3": "Safety"
+            },
+            "Varus": {
+                "positive1": "Poke",
+                "positive2": "Pick",
+                "positive3": "Safety"
+            }
+        }
+    },
+    "support": {
+        "comfort": {
+            "Seraphine": {
+                "positive1": "CC",
+                "positive2": "Utility",
+                "positive3": "Laning"
+            }
+        },
+        "specific": {
+
+        },
+        "teamcomp": {
+
+        }
+    }
+}
