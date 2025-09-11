@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-900 via-purple-900 to-purple-800 text-white px-4 py-6">
-      <h1 className="text-3xl text-center font-bold mb-6">Champion Picker</h1>
+      <h1 className="text-3xl text-center font-bold mb-6">TGS Champions</h1>
       <RoleSelector selected={selectedRole} onSelect={setSelectedRole} />
       {roleData && (
         <div className="max-w-9xl mx-auto">
