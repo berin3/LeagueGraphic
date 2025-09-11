@@ -4,7 +4,7 @@ export default function ChampCard({ champ, positives }) {
   const sortedValues = Object.values(positives).sort();
 
   return (
-    <div className="bg-white/10 p-4 rounded-xl text-white shadow-md min-w-45">
+    <div className="bg-white/10 p-4 rounded-xl text-white shadow-md max-w-40">
       <img
         src={`/icons/${champ}.png`}
         alt={champ}
