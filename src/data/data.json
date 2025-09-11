@@ -32,6 +32,11 @@
                 "positive1": "Anti Tank",
                 "positive2": "Frontline",
                 "positive3": "Scaling"
+            },
+            "Jayce": {
+                "positive1": "Poke",
+                "positive2": "Laning",
+                "positive3": "Burst"
             }
         },
         "teamcomp": {
@@ -49,6 +54,11 @@
                 "positive1": "Frontline",
                 "positive2": "Anti Mobility",
                 "positive3": "CC"
+            },
+            "Ambessa": {
+                "positive1": "Pick",
+                "positive2": "Mobility",
+                "positive3": "Anti Tank"
             }
         }
     },
