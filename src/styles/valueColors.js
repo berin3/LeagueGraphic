@@ -10,7 +10,7 @@ export const valueColors = {
   Burst: '#502fe6ff',
   Laning: '#81186bff',
   Safety: '#31ac01ff',
-  "Range Counter": '#b48874ff',
+  "Anti Range": '#b48874ff',
   Frontline: '#474747ff',
   Teamfight: '#6f7c3fff',
   "Anti Mobility": '#663304ff',
