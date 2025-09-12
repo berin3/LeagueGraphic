@@ -287,13 +287,71 @@
                 "positive1": "CC",
                 "positive2": "Utility",
                 "positive3": "Laning"
+            },
+            "Nami": {
+                "positive1": "Sustain",
+                "positive2": "Utility",
+                "positive3": "Safety"
+            },
+            "Leona": {
+                "positive1": "Engage",
+                "positive2": "Frontline",
+                "positive3": "CC"
+            },
+            "Zyra": {
+                "positive1": "Laning",
+                "positive2": "Poke",
+                "positive3": "Zone Control"
             }
         },
         "specific": {
-
+            "Morgana": {
+                "positive1": "Anti CC",
+                "positive2": "Pick",
+                "positive3": "Peel"
+            }
         },
         "teamcomp": {
-
+            "Rell": {
+                "positive1": "Engage",
+                "positive2": "CC",
+                "positive3": "Teamfight"
+            },
+            "Lulu": {
+                "positive1": "Utility",
+                "positive2": "Protect",
+                "positive3": "Laning"
+            },
+            "Nautilus": {
+                "positive1": "Engage",
+                "positive2": "CC",
+                "positive3": "Frontline"
+            },
+            "Janna": {
+                "positive1": "Protect",
+                "positive2": "Peel",
+                "positive3": "Laning"
+            },
+            "Lux": {
+                "positive1": "Pick",
+                "positive2": "Poke",
+                "positive3": "Laning"
+            },
+            "Blitzcrank": {
+                "positive1": "Pick",
+                "positive2": "Peel",
+                "positive3": "Frontline"
+            },
+            "Thresh": {
+                "positive1": "Utility",
+                "positive2": "Pick",
+                "positive3": "Peel"
+            },
+            "Braum": {
+                "positive1": "CC",
+                "positive2": "Peel",
+                "positive3": "Teamfight"
+            }
         }
     }
 }
