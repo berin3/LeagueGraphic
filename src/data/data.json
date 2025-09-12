@@ -59,6 +59,11 @@
                 "positive1": "Pick",
                 "positive2": "Mobility",
                 "positive3": "Anti Tank"
+            },
+            "Shen": {
+                "positive1": "Global",
+                "positive2": "Protect",
+                "positive3": "Splitpush"
             }
         }
     },
