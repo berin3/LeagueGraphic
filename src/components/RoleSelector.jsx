@@ -7,7 +7,7 @@ export default function RoleSelector({ selected, onSelect }) {
         <button
           key={role}
           onClick={() => onSelect(role)}
-          className={`w-16 h-16 rounded-full transition-transform transform hover:scale-110 ${
+          className={`w-12 h-12 rounded-full transition-transform transform hover:scale-110 ${
             selected === role ? "ring-4 ring-white" : ""
           }`}
         >

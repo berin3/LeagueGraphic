@@ -10,7 +10,7 @@ export default function Learn() {
             <h1 className="text-3xl text-center font-bold mb-6">Champions To Practice</h1>
             <button 
                 className="bg-gradient-to-r from-green-400 via-orange-400 to-yellow-400 
-                max-w-xl px-10 py-2 rounded-full text-xl font-bold cursor-pointer text-white"
+                max-w-xl px-10 py-2 rounded-full font-bold cursor-pointer text-white"
                 onClick={() => {navigate("/")}}
             >
                 TGS Champions
@@ -26,7 +26,7 @@ export default function Learn() {
                             <img
                             src={`/icons/${value}.png`}
                             alt={value}
-                            className="w-20 h-20 object-contain rounded-full"
+                            className="w-16 h-16 object-contain rounded-full"
                             />
                         </div>
                         ))}

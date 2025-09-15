@@ -17,7 +17,7 @@ function App() {
       <h1 className="text-3xl text-center font-bold mb-6">TGS Champions</h1>
       <button 
         className="bg-gradient-to-r from-green-400 via-orange-400 to-yellow-400 
-        max-w-xl px-10 py-2 rounded-full text-xl font-bold cursor-pointer text-white"
+        max-w-xl px-10 py-2 rounded-full font-bold cursor-pointer text-white"
         onClick={() => {navigate("/learn")}}
       >
         Champions To Practice
