@@ -179,6 +179,11 @@
                 "positive2": "Anti Mobility",
                 "positive3": "DPS"
             },
+            "Gragas": {
+                "positive1": "Peel",
+                "positive2": "Burst",
+                "positive3": "Safety"
+            },
             "Kassadin": {
                 "positive1": "Anti AP",
                 "positive2": "Scaling",
@@ -189,10 +194,20 @@
                 "positive2": "Burst",
                 "positive3": "Mobility"
             },
+            "Malzahar": {
+                "positive1": "DPS",
+                "positive2": "Pick",
+                "positive3": "CC"
+            },
             "Morgana": {
                 "positive1": "Anti CC",
                 "positive2": "Pick",
                 "positive3": "Poke"
+            },
+            "Ryze": {
+                "positive1": "Scaling",
+                "positive2": "DPS",
+                "positive3": "Waveclear"
             },
             "Swain": {
                 "positive1": "Sustain",
@@ -213,6 +228,11 @@
                 "positive1": "Anti Tank",
                 "positive2": "Poke",
                 "positive3": "Waveclear"
+            },
+            "Vex": {
+                "positive1": "Anti Mobility",
+                "positive2": "Burst",
+                "positive3": "CC"
             }
         },
         "teamcomp": {
@@ -231,6 +251,11 @@
                 "positive2": "Peel",
                 "positive3": "Engage"
             },
+            "Diana": {
+                "positive1": "Engage",
+                "positive2": "Burst",
+                "positive3": "Teamfight"
+            },  
             "Galio": {
                 "positive1": "CC",
                 "positive2": "Global",
@@ -250,6 +275,26 @@
                 "positive1": "Global",
                 "positive2": "Pick",
                 "positive3": "Splitpush"
+            },
+            "Veigar": {
+                "positive1": "Zone Control",
+                "positive2": "Scaling",
+                "positive3": "Burst"
+            },
+            "Vladimir": {
+                "positive1": "Scaling",
+                "positive2": "Sustain",
+                "positive3": "Teamfight"
+            },
+            "Zoe": {
+                "positive1": "Poke",
+                "positive2": "Pick",
+                "positive3": "Burst"
+            },
+            "Annie": {
+                "positive1": "Burst",
+                "positive2": "Engage",
+                "positive3": "CC"
             }
         }
     },
