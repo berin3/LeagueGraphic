@@ -117,6 +117,11 @@
                 "positive2": "Pick",
                 "positive3": "Laning"
             },
+            "Akali": {
+                "positive1": "Splitpush",
+                "positive2": "Burst",
+                "positive3": "Mobility"
+            },
             "Aurora": {
                 "positive1": "Burst",
                 "positive2": "Safety",
@@ -164,11 +169,6 @@
             }
         },
         "specific": {
-            "Akali": {
-                "positive1": "Splitpush",
-                "positive2": "Burst",
-                "positive3": "Mobility"
-            },
             "Anivia": {
                 "positive1": "Waveclear",
                 "positive2": "Scaling",
